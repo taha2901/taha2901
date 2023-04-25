@@ -1,4 +1,3 @@
-![use](https://user-images.githubusercontent.com/87609841/194765740-1762279e-6405-4903-8aef-87a3b905dd9d.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Taha Hamada</h1>
