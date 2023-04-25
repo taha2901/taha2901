@@ -9,5 +9,4 @@ My Name Is Taha Hamada ,I am a software engineer, application developer with flu
 C++ , Python , Flutter 
 
 
-![Logo](https://images.app.goo.gl/2J3BwAguLkWRb4Eo9)
 
