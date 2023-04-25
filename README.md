@@ -9,6 +9,5 @@ I am a software engineer, application developer with flutter, studying computers
 C++ , Python , Flutter 
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](4B4A9751-D2BF-4A93-BDCC-CDCA5326B65F.png)
 
-Flutter
