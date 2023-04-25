@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋, I'm Taha Hamada</h1>
 <h3 align="center">Mobile Developer | Problem Solver </h3>
 
