@@ -1,42 +1,76 @@
-<h1 align="center">Hi 👋, I'm Taha Hamada</h1>
-<h3 align="center">Flutter Developer | Clean Architecture & Scalable Mobile Apps</h3>
+<div align="center">
 
-<p align="center">
-  Building cross-platform mobile and web apps with Flutter & Dart — focused on clean code, 
-  solid architecture (MVVM/Clean Architecture), and great user experiences.
-</p>
+# Hi, I'm Taha Hamada 👋
 
-- 💼 Currently working as a **Flutter Developer at Arrow Tech**
-- 🚀 Recently shipped: e-commerce, food delivery, e-learning, and service-booking apps
-- 🛠️ Tech I work with: **Flutter, Dart, Firebase, Supabase, Bloc/Cubit, REST APIs, SQLite**
-- 🌱 Currently exploring **Networking (CCNA)** alongside mobile development
-- 📫 Reach me at **tahahamada2901@gmail.com**
-- 🌐 Portfolio: [tahahamada.vercel.app](https://tahahamada.vercel.app)
+### Flutter Developer | Clean Architecture & Scalable Mobile Apps
 
-<h3 align="left">Connect with me:</h3>
+Building cross-platform mobile and web apps with **Flutter & Dart** — focused on clean, 
+maintainable code using **Clean Architecture / MVVM** and modern state management.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-tahahamada.vercel.app-1F4E79?style=for-the-badge&logo=vercel&logoColor=white)](https://tahahamada.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-hamada-201511258)
+[![Gmail](https://img.shields.io/badge/Email-tahahamada2901@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahahamada2901@gmail.com)
+
+</div>
+
+---
+
+### 💼 About Me
+
+- 🚀 Flutter Developer at **Arrow Tech** — building production cross-platform apps
+- 🧱 Strong focus on **Clean Architecture, MVVM & SOLID** principles
+- 🔄 State management with **Bloc, Cubit & Provider**
+- 🔌 Experienced with **REST APIs, Firebase, Supabase, SQLite & Hive**
+- 🌱 Currently expanding into **Networking (CCNA)**
+- 📍 Based in Giza, Egypt — open to remote work & relocation
+
+---
+
+### 🛠️ Tech Stack
+
 <p align="left">
-<a href="https://www.linkedin.com/in/taha-hamada-201511258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha-hamada-201511258" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-<h3 align="left">📌 Featured Projects:</h3>
+### 📊 GitHub Stats
 
-- **Sofrety** – Food delivery app with online payment, maps integration, and Bloc/Cubit architecture
-- **SallaX** – E-commerce app with REST API, Cubit state management, and local persistence (SQLite)
-- **E-Learning Platform** – Udemy-style app with video streaming and Supabase backend
-- **Home Services App** – Booking app for home maintenance using Bloc + MVVM
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=taha2901&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha2901&layout=compact&hide_border=true&theme=default" />
+</p>
 
-⭐ Check the pinned repos below for code, demos, and APKs.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taha2901&theme=default&hide_border=true" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **Sofrety** | Food delivery app with online payment & maps integration | Flutter, Firebase, Bloc/Cubit |
+| **SallaX** | E-commerce app with auth, catalog & local persistence | Flutter, REST API, Cubit, SQLite |
+| **E-Learning Platform** | Udemy-style app with video streaming & certificates | Flutter, Supabase, REST API |
+| **Home Services** | Booking app for home maintenance services | Flutter, Bloc, MVVM |
+
+⭐ Pin these repos on your profile so they're the first thing visitors see.
+
+---
+
+<div align="center">
+
+💬 *Always learning, always shipping.*
+
+</div>
